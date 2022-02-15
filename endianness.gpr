@@ -1,0 +1,5 @@
+project Endianness is
+    for Source_Dirs use ("src");
+    for Object_Dir use "obj";
+    for Main use ("endianness_demo_gpl2012.adb");
+end Endianness;
